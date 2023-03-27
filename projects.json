@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "thumbnail": "/images/photo_keepup.svg",
+        "thumbnail": "/images/photo_keepup.png",
         "title": "Keep'Up",
-        "subtitle": "A networking app for sports lovers",
-        "description": "Keep’Up is a mobile-first social networking application allowing sports lovers to connect with each other. The user will be able to create sports events or join available ones created by other users to practice together.",
+        "subtitle": "Meetup for Sport",
+        "description": "A mobile-first social networking application allowing sports lovers to connect with each other through creating and joining events.",
         "technology": "ReactJS / Node",
         "link": "https://keepup-oclock.netlify.app/",
         "done": true
