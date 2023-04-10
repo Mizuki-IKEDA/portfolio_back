@@ -75,4 +75,6 @@ app.post('/contact', (req,res) => {
  */
 app.listen(port, () => {
     console.log(`listening on *:${port}`)
-})
+});
+
+module.exports = app;
