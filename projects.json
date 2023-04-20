@@ -7,16 +7,18 @@
         "description": "A mobile-first social networking application allowing sports lovers to connect with each other through creating and joining events.",
         "technology": "ReactJS / Node",
         "link": "https://keepup-oclock.netlify.app/",
+        "github_link": "https://github.com/O-clock-Flamel/projet-07-tinder-du-sportif-front",
         "done": true
     },
     {
         "id": 2,
-        "thumbnail": "/images/BugTracker_Minko.jpg",
-        "title": "Bug Traker Minko",
-        "subtitle": "A bug tracking app",
-        "description": "Bug Tracker Minko is a bug tracking app that is awesome.",
+        "thumbnail": "/images/photo_leCookNippon.png",
+        "title": "TheNipponCook - Under development",
+        "subtitle": "A Japanases cooking app",
+        "description": "A website presenting family friendly japanese recipes where you can pick and save favorites",
         "technology": "ReactJS / Node",
-        "link": "/",
+        "link": "",
+        "github_link": "",
         "done": false
     }
 ]
